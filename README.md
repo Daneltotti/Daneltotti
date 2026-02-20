@@ -5,7 +5,7 @@
 ---
 
 ## 🧠 Sobre mí  
-- 📊 Analista de Datos en transición desde el entorno industrial.  
+- 📊 Analista de Datos.  
 - 🏭 Experiencia real analizando datos operativos, scrap, rendimiento y producción.  
 - 🛠️ Manejo SQL, Power BI, DAX y visualización orientada a negocio.  
 - 🚀 Enfocado en convertir datos en decisiones.  
