@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Danel  
-### Analista de Datos Junior | Power BI • SQL • Python  
+### Analista de Datos | Power BI • SQL • Python  
 📍 Barcelona, España  
 
 ---
