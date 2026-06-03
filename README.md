@@ -40,7 +40,7 @@ Scrap, rendimiento, consumo y análisis por máquina y material.
 
 ---
 
-## 📬 Conectemos  
+## 📬 Conectemos 
 - 💼 LinkedIn: [linkedin.com/in/arian-danel-bertotto-a8a60b167](https://linkedin.com/in/arian-danel-bertotto-a8a60b167)  
 - 📧 Contacto: danelbertotto@gmail.com 
 
