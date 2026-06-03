@@ -19,14 +19,6 @@
 
 ---
 
-## 📚 Actualmente aprendiendo  
-- 🧠 Modelado de datos avanzado  
-- 🐍 Python para análisis  
-- 📦 ETL y automatización  
-- 📈 Storytelling con datos  
-
----
-
 ## 📂 Proyectos destacados  
 ### 🔹 **Análisis de ventas con SQL**  
 Consultas avanzadas, KPIs, exploración y reporting.  
