@@ -22,7 +22,7 @@
 ## Proyectos destacados  
 ### **Análisis de ventas con SQL**  
 Consultas avanzadas, KPIs, exploración y reporting.  
-🔗 *Repositorio:* `sql-sales-analysis`
+*Repositorio:* `sql-sales-analysis`
 
 ### **Dashboard de Producción CNC (Power BI)**  
 Scrap, rendimiento, consumo y análisis por máquina y material.  
